@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>E:\GitHub\NarutoFight\NarutoFight</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>E:\GitHub\NarutoFight\NarutoFight\Resources</Resources>
+  <Name>NarutoFight</Name>
+  <JsonFileName>NarutoFight.json</JsonFileName>
+  <JsonFolder>E:\GitHub\NarutoFight\NarutoFight\Json</JsonFolder>
+  <JsonList>
+    <string>NarutoFight_1.json</string>
+    <string>NormalLogin.json</string>
+    <string>NormalRegister.json</string>
+    <string>MainSceneUi_1.json</string>
+    <string>MainSceneUi_2.json</string>
+    <string>MainSceneUi_3.json</string>
+    <string>Android_Back_Off.json</string>
+    <string>Book.json</string>
+    <string>Character_List.json</string>
+    <string>Character_Select.json</string>
+    <string>Character_Select_Bg_NF.json</string>
+    <string>Character_Select_NF.json</string>
+    <string>CreateNinja.json</string>
+    <string>Email.json</string>
+    <string>Email_Info_Page.json</string>
+    <string>Equ_UpGrade.json</string>
+    <string>Ex_Fb.json</string>
+    <string>Ex_Fb_Scroll_Page.json</string>
+    <string>Fb.json</string>
+    <string>Fb_Lose.json</string>
+    <string>Fb_Win.json</string>
+    <string>Friend_Head.json</string>
+    <string>Skill_Intro_Page.json</string>
+    <string>PlayerInfoItemPage.json</string>
+    <string>Setting.json</string>
+    <string>Skill.json</string>
+    <string>NarutoFight_27.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>480</Width>
+    <Height>320</Height>
+  </CanvasSize>
+  <filePath>E:\GitHub\NarutoFight\NarutoFight\NarutoFight.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList />
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>NormalLogin.json</CurrentUIJson>
+</UIProject>

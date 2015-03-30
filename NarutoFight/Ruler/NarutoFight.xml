@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGuidesProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GuidesProject>
+    <Project>NarutoFight_1</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>NormalLogin</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>NormalRegister</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>MainSceneUi_1</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>MainSceneUi_2</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>MainSceneUi_3</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>Android_Back_Off</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>Book</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>Character_List</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>Character_Select</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>Character_Select_Bg_NF</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>Character_Select_NF</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>CreateNinja</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>Email</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>Email_Info_Page</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>Equ_UpGrade</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>Ex_Fb</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>Ex_Fb_Scroll_Page</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>Fb</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>Fb_Lose</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>Fb_Win</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>Friend_Head</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>Skill_Intro_Page</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>PlayerInfoItemPage</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>Setting</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>Skill</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>NarutoFight_27</Project>
+    <GuidesList />
+  </GuidesProject>
+</ArrayOfGuidesProject>
