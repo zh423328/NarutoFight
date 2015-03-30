@@ -45,5 +45,5 @@
   <imageFileList />
   <imagePngList />
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>NormalLogin.json</CurrentUIJson>
+  <CurrentUIJson>Character_List.json</CurrentUIJson>
 </UIProject>
